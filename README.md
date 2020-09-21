@@ -8,6 +8,7 @@ The content of this repo is designed to provide a simple scenario on how the Ope
 	- Seldon
 	- Spark
 	- Seldon
+	- AI-Library
 3. Validate if all components are started correctly on your environment
 4. Follow the Basic Tutorial to validate if you can start up a simple notebook with Spark Cluster. (Avoid any Object Storage tutorial)
 - https://opendatahub.io/docs/getting-started/basic-tutorial.html
